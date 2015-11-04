@@ -11,6 +11,6 @@ download button on the right side of the page
  behance [Behance] (https://www.behance.net/thedesign4x).
 
  envato [Themeforest] (http://themeforest.net/user/amrabdelaziz).
- 
- Github  [Github] (https://github.com/amrabdelaziz) Now you're in it :D.
+
+ Github  [Github] (https://github.com/amrabdelaziz/portfolio).
 
